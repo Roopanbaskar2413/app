@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "category": "dress",
+  "price": 99.99,
+  "size": "M",
+  "color": "red",
+  "brand": "Gucci",
+  "rating": 4.5
+}
